@@ -2,7 +2,7 @@
 
 Welcome to the **Tableau Trading Data Analysis Dashboard**!  
 This project utilizes **Tableau** to explore trading activity, customer behavior, and regional performance using transactional trading data.
-
+You can also have a look live Dashboard Tour by downloading the Dashboard Tour.ZIP file
 ---
 
 ## 📊 Project Overview
