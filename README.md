@@ -27,11 +27,18 @@ Key fields include:
 - `Deposit / Withdraw` – Cash inflows/outflows  
 - `Transfer In / Out` – Fund transfers  
 - `Location` – Customer's geographic location  
-
-**📐 Net Inflow Formula:**  
-Net Inflow = Deposit + Transfer In – Withdraw – Transfer Out
-
 ---
+## 📸 Dashboard Preview
+
+### 🧭 Overview Page
+![Dashboard 1](Picture1.png)
+
+### 👤 Customer & RM Analysis
+![Dashboard 1](Picture2.png)
+
+### 🗺️ Location Performance
+![Dashboard 1](Picture3.png)
+
 
 ## 🔍 What’s Included in the Dashboard
 
